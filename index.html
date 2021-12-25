@@ -5,13 +5,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Auto Completed</title>
-    <link rel="stylesheet" href="/vendor/bootstrap-4.6.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="./vendor/bootstrap-4.6.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="style.css" />
 </head>
 <body>
     
-    <h1 align="center">Hello Not World</h1>
+    <div class="container">
+        <h1 align="center">Hello Not World</h1>
+    
+        <div class="form-group">
+          <label for="">AutoComplete</label>
+          <input type="text" class="form-control autocomplete" placeholder="Enter Name">
+        </div>
+    </div>
 
-    <script src="/vendor/jquery-3.6.0/jquery.min.js"></script>
-    <script src="/main.js"></script>
+    <script src="./vendor/jquery-3.6.0/jquery.min.js"></script>
+    <script src="./vendor/devbridge-autocomplete/jquery.autocomplete.min.js"></script>
+    <script src="main.js"></script>
 </body>
 </html>
