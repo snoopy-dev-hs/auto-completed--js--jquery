@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snoopy Dev</h1>
-<h3 align="center">A passionate Backend Developer.</h3>
-<hr>
-<h2 align="center">Auto Complete using JS & Jquery.</h2>
 
+<h2 align="center">Auto Complete using JS & Jquery.</h2>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/snoopydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/snoopydev" height="30" width="40" /></a>
