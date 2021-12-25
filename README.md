@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Snoopy Dev</h1>
 <h3 align="center">A passionate Backend Developer.</h3>
-
+<hr>
 <h2 align="center">Auto Complete using JS & Jquery.</h2>
 
 <h3 align="left">Connect with me:</h3>
